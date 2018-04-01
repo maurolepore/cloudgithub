@@ -21,8 +21,8 @@ Configure git
 Terminal: Paste text with Shift + Insert.
 
 ``` bash
-git config --global user.email "maurolepore@gmail.com"
-git config --global user.name "maurolepore"
+git config --global user.email "example@gmail.com"
+git config --global user.name "example"
 ```
 
 Create SHA key
