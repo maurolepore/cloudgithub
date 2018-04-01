@@ -1,12 +1,14 @@
 ---
-output: ioslides_presentation
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Connecting rstudio.cloud and GitHub | https://bit.ly/mauro_lepore
+# Connecting rstudio.cloud and GitHub
+
+https://bit.ly/mauro_lepore
 
 ## Create new project from git repo
 
