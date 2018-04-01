@@ -1,4 +1,10 @@
 
+-   [Connecting rstudio.cloud and GitHub](#connecting-rstudio.cloud-and-github)
+    -   [Create new project from git repo](#create-new-project-from-git-repo)
+    -   [Configure git](#configure-git)
+    -   [Create SHA key](#create-sha-key)
+    -   [Give SHA key to GitHub](#give-sha-key-to-github)
+
 Connecting rstudio.cloud and GitHub
 ===================================
 
