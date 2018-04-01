@@ -5,8 +5,16 @@ Link rstudio.cloud and GitHub
 
 ![](https://i.imgur.com/E1wcTup.png)
 
-## 2. Create SHA key
+## 2. Configure git
 
-## 3. Give key to GitHub
+```bash
+git config --global user.email "maurolepore@gmail.com"
+git config --global user.name "maurolepore"
+```
 
-Works?
+## 3. Create SHA key
+
+
+## 4. Give key to GitHub
+
+
