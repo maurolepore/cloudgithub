@@ -59,3 +59,5 @@ Add remote
 git remote add origin git@github.com:OWNER/REPONAME.git
 git push -u origin master
 ```
+
+The end!
