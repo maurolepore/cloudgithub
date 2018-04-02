@@ -10,9 +10,37 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# On rstudio.cloud
+
 ## Login to rstudio.cloud and create a new project from git repo
 
 ![](https://i.imgur.com/E1wcTup.png)
+
+## View link (remote origin) between rstudio.cloud and GitHu
+
+View remote
+
+```bash
+git remote -vv
+```
+
+## If necessary, update remote origin
+
+Remove remote
+
+```bash
+git remote remove origin
+```
+Add remote
+
+```bash
+git remote add origin git@github.com:OWNER/REPONAME.git
+git push -u origin master
+```
+
+
+
+
 
 ## Tools > Global options > Git > Create key
 
@@ -20,6 +48,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](https://i.imgur.com/8cyFyn7.png)
 
 ## View and copy public key
+
+# On GitHub
 
 ## Give SSH key to GitHub
 
@@ -37,25 +67,5 @@ To paste text in the terminal use Shift + Insert.
 git config --global user.email "USEREMAIL@gmail.com"
 git config --global user.name "USERNAME"
 
-```
-
-## If this doesn't work, remove the remote origin and add it again
-
-View remote
-
-```bash
-git remote -vv
-```
-
-Remove remote
-
-```bash
-git remote remove origin
-```
-Add remote
-
-```bash
-git remote add origin git@github.com:OWNER/REPONAME.git
-git push -u origin master
 ```
 
