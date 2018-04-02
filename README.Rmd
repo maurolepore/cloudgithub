@@ -10,7 +10,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ## Login to rstudio.cloud and create a new project from git repo
 
 ![](https://i.imgur.com/E1wcTup.png)
