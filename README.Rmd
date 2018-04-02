@@ -1,4 +1,6 @@
 ---
+title: Connecting rstudio.cloud and GitHub
+subtitle: https://bit.ly/mauro_lepore
 output: 
   github_document:
     toc: true
@@ -8,9 +10,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Connecting rstudio.cloud and GitHub
-
-https://bit.ly/mauro_lepore
 
 ## Create new project from git repo
 
