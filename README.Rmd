@@ -15,6 +15,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](https://i.imgur.com/E1wcTup.png)
 
+## Configure git
+
+Terminal: Paste text with Shift + Insert.
+
+```bash
+git config --global user.email "example@gmail.com"
+git config --global user.name "example"
+```
+
 ## Create SHA key
 
 ![](https://i.imgur.com/8cyFyn7.png)
