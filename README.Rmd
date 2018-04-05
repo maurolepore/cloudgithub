@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](https://i.imgur.com/E1wcTup.png)
 
-## View link (remote origin) between rstudio.cloud and GitHu
+## View link (remote origin) between rstudio.cloud and GitHub
 
 View remote
 

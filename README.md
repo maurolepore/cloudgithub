@@ -3,7 +3,7 @@ Connecting rstudio.cloud and GitHub
 
 -   [On rstudio.cloud](#on-rstudio.cloud)
     -   [Login to rstudio.cloud and create a new project from git repo](#login-to-rstudio.cloud-and-create-a-new-project-from-git-repo)
-    -   [View link (remote origin) between rstudio.cloud and GitHu](#view-link-remote-origin-between-rstudio.cloud-and-githu)
+    -   [View link (remote origin) between rstudio.cloud and GitHub](#view-link-remote-origin-between-rstudio.cloud-and-github)
     -   [If necessary, update remote origin](#if-necessary-update-remote-origin)
     -   [Tools &gt; Global options &gt; Git &gt; Create key](#tools-global-options-git-create-key)
     -   [View and copy public key](#view-and-copy-public-key)
@@ -19,8 +19,8 @@ Login to rstudio.cloud and create a new project from git repo
 
 ![](https://i.imgur.com/E1wcTup.png)
 
-View link (remote origin) between rstudio.cloud and GitHu
----------------------------------------------------------
+View link (remote origin) between rstudio.cloud and GitHub
+----------------------------------------------------------
 
 View remote
 
